@@ -17,12 +17,12 @@ Esse aplicativo foi uma forma deu por em prática as minhas 3 semanas de estudo 
 Você pode rodar a aplicação de duas maneiras: pelo o seu celular ou por um emulador.
 
 #### Celular
-  Conecte um cabo USB ao seu computador, vá ao terminal, entre na pasta do projeto e digite `flutter run --profile`.
+  Conecte um cabo USB do celular ao computador, vá ao terminal, entre na pasta do projeto e digite `flutter run --profile`.
 
 #### Emulador
-  Inicie o Android Studio, abra a pasta do projeto, selecione o emulador pressione as telas Shift + F10. 
+  Inicie o Android Studio, abra a pasta do projeto, selecione o emulador pressione as teclas Shift + F10. 
 
-[Aplicativo rodando no modo de debug](https://imgur.com/SbLTxLb)
+![Aplicativo rodando no modo de debug](https://imgur.com/SbLTxLb)
 
 
 ### License
