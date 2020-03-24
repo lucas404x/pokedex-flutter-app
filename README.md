@@ -22,7 +22,7 @@ Você pode rodar a aplicação de duas maneiras: pelo o seu celular ou por um em
 #### Emulador
   Inicie o Android Studio, abra a pasta do projeto, selecione o emulador pressione as teclas Shift + F10. 
 
-![Aplicativo rodando no modo de debug](https://imgur.com/SbLTxLb)
+![Aplicativo rodando no modo de debug](demonstracao_app.gif)
 
 
 ### License
