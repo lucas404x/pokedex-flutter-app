@@ -1,0 +1,4 @@
+#Tue Mar 24 13:49:22 BRT 2020
+base.0=/home/lucas404x/Documentos/flutter-projects/pokedex/build/app/intermediates/dex/profile/mergeDexProfile/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
