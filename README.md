@@ -1,16 +1,30 @@
-# pokedex
+# Pokedex - Flutter
 
-A new Flutter project.
+Esse aplicativo foi uma forma deu por em prática as minhas 3 semanas de estudo no framework Flutter.
 
-## Getting Started
+## Iniciando
 
-This project is a starting point for a Flutter application.
+É necessário alguns softwares para que seja possível a execução do aplicativo.
 
-A few resources to get you started if this is your first Flutter project:
+### Pré-requisitos
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [Flutter](https://flutter.dev/docs/get-started/install);
+- [Android Studio](https://developer.android.com/studio);
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Rodando a aplicação
+
+Você pode rodar a aplicação de duas maneiras: pelo o seu celular ou por um emulador.
+
+#### Celular
+  Conecte um cabo USB do celular ao computador, vá ao terminal, entre na pasta do projeto e digite `flutter run --profile`.
+
+#### Emulador
+  Inicie o Android Studio, abra a pasta do projeto, selecione o emulador pressione as teclas Shift + F10. 
+
+![Aplicativo rodando no modo de debug](https://imgur.com/SbLTxLb)
+
+
+### License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
